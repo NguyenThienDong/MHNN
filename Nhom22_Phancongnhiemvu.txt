@@ -1,0 +1,25 @@
+	CÁC MÔ HÌNH NGẪU NHIÊN VÀ ỨNG DỤNG
+ 	NHẬN XÉT VÀ ĐÁNH GIÁ KẾT QUẢ BÁO CÁO
+
+Nhóm 22: Lý thuyết xếp hàng áp dụng cho bài toán bán vé M/M/C/K
+Nguyễn Thiện Đông      MSSV: 20161027 (Nhóm trưởng)
+Ngô Gia Lâm	       MSSV: 20162311
+Nguyễn Bá Kiên	       MSSV: 20152057
+
+I.	Phân chia công việc trong nhóm
+
+Nguyễn Thiện Đông: 
+	Phân chia công việc cho các thành viên
+	Viết báo cáo + slide và hỗ trợ viết chương trình bằng c#.net
+	Nghiên cứu và phát triển về chủ đề
+
+Ngô Gia Lâm: 
+	Viết chương trình và hỗ trợ làm slide báo cáo
+	Nghiên cứu và phát triển chủ đề
+
+Nguyễn Bá Kiên:
+	Tìm kiếm tài liệu và hỗ trợ làm slide
+	Nghiên cứu và phát triển chủ đề
+
+	Link github:
+	https://github.com/NguyenThienDong/MHNN.git
